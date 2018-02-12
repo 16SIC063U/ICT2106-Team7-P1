@@ -1,0 +1,11 @@
+C:\Users\Juun\Documents\GitHub\ICT2106-2018T2-P1\Prettyprinter\bin\Debug\netcoreapp2.0\Prettyprinter.deps.json
+C:\Users\Juun\Documents\GitHub\ICT2106-2018T2-P1\Prettyprinter\bin\Debug\netcoreapp2.0\Prettyprinter.runtimeconfig.json
+C:\Users\Juun\Documents\GitHub\ICT2106-2018T2-P1\Prettyprinter\bin\Debug\netcoreapp2.0\Prettyprinter.runtimeconfig.dev.json
+C:\Users\Juun\Documents\GitHub\ICT2106-2018T2-P1\Prettyprinter\bin\Debug\netcoreapp2.0\Prettyprinter.dll
+C:\Users\Juun\Documents\GitHub\ICT2106-2018T2-P1\Prettyprinter\obj\Debug\netcoreapp2.0\Prettyprinter.csprojResolveAssemblyReference.cache
+C:\Users\Juun\Documents\GitHub\ICT2106-2018T2-P1\Prettyprinter\obj\Debug\netcoreapp2.0\Prettyprinter.csproj.CoreCompileInputs.cache
+C:\Users\Juun\Documents\GitHub\ICT2106-2018T2-P1\Prettyprinter\obj\Debug\netcoreapp2.0\Prettyprinter.AssemblyInfoInputs.cache
+C:\Users\Juun\Documents\GitHub\ICT2106-2018T2-P1\Prettyprinter\obj\Debug\netcoreapp2.0\Prettyprinter.AssemblyInfo.cs
+C:\Users\Juun\Documents\GitHub\ICT2106-2018T2-P1\Prettyprinter\bin\Debug\netcoreapp2.0\Prettyprinter.pdb
+C:\Users\Juun\Documents\GitHub\ICT2106-2018T2-P1\Prettyprinter\obj\Debug\netcoreapp2.0\Prettyprinter.dll
+C:\Users\Juun\Documents\GitHub\ICT2106-2018T2-P1\Prettyprinter\obj\Debug\netcoreapp2.0\Prettyprinter.pdb
