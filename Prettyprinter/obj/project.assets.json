@@ -13133,11 +13133,11 @@
       "hideWarningsAndErrors": true
     },
     "restore": {
-      "projectUniqueName": "C:\\Users\\Juun\\Documents\\GitHub\\ICT2106-2018T2-P1\\Prettyprinter\\Prettyprinter.csproj",
+      "projectUniqueName": "C:\\Users\\Juun\\Documents\\GitHub\\ICT2106-Team7-P1\\Prettyprinter\\Prettyprinter.csproj",
       "projectName": "Prettyprinter",
-      "projectPath": "C:\\Users\\Juun\\Documents\\GitHub\\ICT2106-2018T2-P1\\Prettyprinter\\Prettyprinter.csproj",
+      "projectPath": "C:\\Users\\Juun\\Documents\\GitHub\\ICT2106-Team7-P1\\Prettyprinter\\Prettyprinter.csproj",
       "packagesPath": "C:\\Users\\Juun\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Juun\\Documents\\GitHub\\ICT2106-2018T2-P1\\Prettyprinter\\obj\\",
+      "outputPath": "C:\\Users\\Juun\\Documents\\GitHub\\ICT2106-Team7-P1\\Prettyprinter\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackagesFallback\\",

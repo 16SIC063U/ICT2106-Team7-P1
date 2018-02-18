@@ -46,7 +46,7 @@ namespace Prettyprinter.Controllers
                 return RedirectToAction(nameof(Index), folderId);
             }
             else if(action == "move")
-            {
+            {   
                 dataGateway.MoveFile(id, actionParameter);
                 return RedirectToAction(nameof(Index), folderId);
             }
@@ -54,9 +54,9 @@ namespace Prettyprinter.Controllers
         }
 
         // POST: Files/Delete/5
-        [HttpPost, ActionName("Delete")]
+        [HttpPost]
         [ValidateAntiForgeryToken]
-        public ActionResult DeleteConfirmed(string deleteId)
+        public ActionResult Delete(string deleteId)
         {
             dataGateway.DeleteFile(deleteId);
             return RedirectToAction(nameof(Index));
